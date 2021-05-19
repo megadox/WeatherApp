@@ -1,4 +1,4 @@
-# MVVM-WeatherApp
+# WPF MVVM-WeatherApp
 
 - https://developer.accuweather.com/
 - API Key :  kHKrHGGKaFfFJyli0quidXQ0MTUiMQlA
