@@ -1,5 +1,7 @@
 # WPF MVVM-WeatherApp
 
+Framwork :  .NET Framwork 4.7.2
+
 - https://developer.accuweather.com/
 - API Key :  kHKrHGGKaFfFJyli0quidXQ0MTUiMQlA
 - Seoul Key : 226081
